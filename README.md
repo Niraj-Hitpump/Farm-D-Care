@@ -4,6 +4,14 @@ Farm-D-Care is a Flutter-based mobile app that helps farmers detect diseases in 
 
 ---
 
+## 🎥 App Demo
+
+> Replace with your actual video links (Google Drive, YouTube, etc.)
+
+- 🔗 [Watch App Demo](https://your-video-link-here)
+
+---
+
 ## 📱 Features
 
 - 📸 **Scan & Detect Leaf Diseases**  
@@ -20,6 +28,27 @@ Farm-D-Care is a Flutter-based mobile app that helps farmers detect diseases in 
 
 - ☁️ **Cloud Storage**  
   Cloudinary used to manage uploaded leaf images efficiently.
+
+---
+
+## 🚧 To Be Implemented
+
+The following features are planned for future versions but **not yet implemented**:
+
+- 🧑‍🌾 **Ask an Expert**  
+  Get personalized guidance from certified agricultural experts.
+
+- 🎓 **Get Training**  
+  Enroll in video-based training modules for modern farming techniques.
+
+- 🏆 **Rewards System**  
+  Earn points and badges for app usage, learning, and community participation.
+
+- 📅 **Crop Calendar**  
+  Track crop lifecycle including sowing, irrigation, and harvesting reminders.
+
+- 📰 **Farming News & Govt Schemes**  
+  Stay updated with the latest agriculture news and benefits.
 
 ---
 
@@ -45,14 +74,6 @@ Farm-D-Care is a Flutter-based mobile app that helps farmers detect diseases in 
 | Leaf Scan Page      | ![Scan](link_to_image_2) |
 | Result with Remedy  | ![Result](link_to_image_3) |
 | Videos Section      | ![Videos](link_to_image_4) |
-
----
-
-## 🎥 App Demo
-
-> Replace with your actual video links (Google Drive, YouTube, etc.)
-
-- 🔗 [Watch App Demo](https://your-video-link-here)
 
 ---
 
