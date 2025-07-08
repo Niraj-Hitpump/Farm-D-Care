@@ -70,7 +70,7 @@ The following features are planned for future versions but **not yet implemented
 
 | Screen              | Image Preview |
 |---------------------|---------------|
-| Login Screen        | ![Login](link_to_image_1) |
+| Login Screen        | ![Login](https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/login.jpg) |
 | Leaf Scan Page      | ![Scan](link_to_image_2) |
 | Result with Remedy  | ![Result](link_to_image_3) |
 | Videos Section      | ![Videos](link_to_image_4) |
