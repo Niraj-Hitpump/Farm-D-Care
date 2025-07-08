@@ -17,71 +17,26 @@ Here’s a step-by-step walkthrough of the **Farm-D-Care** mobile app:
 
 ---
 
-### 🔐 Login Screens
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="border: 1px solid #ccc; padding: 10px;">
-    <img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/login.jpg?raw=true" alt="Login Screen" width="250"/>
-  </div>
-  <div style="border: 1px solid #ccc; padding: 10px;">
-    <img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/login1.jpg?raw=true" alt="Login Screen 2" width="250"/>
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/login.jpg?raw=true" width="100%" /></td>
+      <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/login1.jpg?raw=true" width="100%" /></td>
+      <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/features.jpg?raw=true" width="100%" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/Expert.jpg?raw=true" width="100%" /></td>
+      <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/selection.jpg?raw=true" width="100%" /></td>
+      <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/scan.jpg?raw=true" width="100%" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/Result.jpg?raw=true" width="100%" /></td>
+      <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/Result2.jpg?raw=true" width="100%" /></td>
+      <td></td>
+    </tr>
+  </table>
 </div>
 
----
-
-### ⚙️ Features Page
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="border: 1px solid #ccc; padding: 10px;">
-    <img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/features.jpg?raw=true" alt="Features Page" width="250"/>
-  </div>
-</div>
-
----
-
-### 👨‍🌾 Ask Expert (Planned)
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="border: 1px solid #ccc; padding: 10px;">
-    <img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/Expert.jpg?raw=true" alt="Ask Expert" width="250"/>
-  </div>
-</div>
-
----
-
-### 🌾 Crop Selection
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="border: 1px solid #ccc; padding: 10px;">
-    <img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/selection.jpg?raw=true" alt="Crop Selection" width="250"/>
-  </div>
-</div>
-
----
-
-### 📸 Scan Leaf
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="border: 1px solid #ccc; padding: 10px;">
-    <img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/scan.jpg?raw=true" alt="Scanning Page" width="250"/>
-  </div>
-</div>
-
----
-
-### 🩺 Disease Detection Results
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="border: 1px solid #ccc; padding: 10px;">
-    <img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/Result.jpg?raw=true" alt="Result 1" width="250"/>
-  </div>
-  <div style="border: 1px solid #ccc; padding: 10px;">
-    <img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/Result2.jpg?raw=true" alt="Result 2" width="250"/>
-  </div>
-</div>
-
----
 
 
 
