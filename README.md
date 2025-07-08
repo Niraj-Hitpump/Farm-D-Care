@@ -66,16 +66,20 @@ The following features are planned for future versions but **not yet implemented
 
 ## 🖼️ Screenshots
 
-> Add your screenshots here by replacing the placeholders
+Here’s a walkthrough of the Farm-D-Care mobile app with screenshots:
 
-| Screen              | Image Preview |
-|---------------------|---------------|
-| Login Screen        | ![Login](https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/login.jpg) |
-| Leaf Scan Page      | ![Scan](link_to_image_2) |
-| Result with Remedy  | ![Result](link_to_image_3) |
-| Videos Section      | ![Videos](link_to_image_4) |
+<p float="left">
+  <img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/login.jpg?raw=true" alt="Login Screen" width="250"/>
+  <img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/login1.jpg?raw=true" alt="Login Screen 2" width="250"/>
+  <img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/selection.jpg?raw=true" alt="Crop Selection" width="250"/>
+  <img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/scan.jpg?raw=true" alt="Scanning Page" width="250"/>
+  <img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/features.jpg?raw=true" alt="Features Page" width="250"/>
+  <img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/Expert.jpg?raw=true" alt="Ask Expert" width="250"/>
+  <img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/Result.jpg?raw=true" alt="Detection Result" width="250"/>
+  <img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/Result2.jpg?raw=true" alt="Result Explanation" width="250"/>
+  <img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/videos.jpg?raw=true" alt="Video Remedies" width="250"/>
+</p>
 
----
 
 ## 🚀 How to Run
 
