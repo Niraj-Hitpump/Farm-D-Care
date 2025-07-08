@@ -8,7 +8,7 @@ Farm-D-Care is a Flutter-based mobile app that helps farmers detect diseases in 
 
 > Replace with your actual video links (Google Drive, YouTube, etc.)
 
-- 🔗 [Watch App Demo](https://your-video-link-here)
+- 🔗 [Watch App Demo](https://res.cloudinary.com/dcsvodn3y/video/upload/v1751971531/demo_deifrl.mp4)
 
 ---
 
