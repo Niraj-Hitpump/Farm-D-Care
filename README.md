@@ -18,24 +18,44 @@ Here’s a step-by-step walkthrough of the **Farm-D-Care** mobile app:
 ---
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/login.jpg?raw=true" width="100%" /></td>
-      <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/login1.jpg?raw=true" width="100%" /></td>
-      <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/features.jpg?raw=true" width="100%" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/Expert.jpg?raw=true" width="100%" /></td>
-      <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/selection.jpg?raw=true" width="100%" /></td>
-      <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/scan.jpg?raw=true" width="100%" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/Result.jpg?raw=true" width="100%" /></td>
-      <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/Result2.jpg?raw=true" width="100%" /></td>
-      <td></td>
-    </tr>
-  </table>
+
+<table>
+  <tr>
+    <th>Login Screen</th>
+    <th>Login Screen 2</th>
+    <th>Features Page</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/login.jpg?raw=true" width="100%" /></td>
+    <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/login1.jpg?raw=true" width="100%" /></td>
+    <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/features.jpg?raw=true" width="100%" /></td>
+  </tr>
+
+  <tr>
+    <th>Ask Expert</th>
+    <th>Crop Selection</th>
+    <th>Scan Leaf</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/Expert.jpg?raw=true" width="100%" /></td>
+    <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/selection.jpg?raw=true" width="100%" /></td>
+    <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/scan.jpg?raw=true" width="100%" /></td>
+  </tr>
+
+  <tr>
+    <th>Detection Result 1</th>
+    <th>Detection Result 2</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/Result.jpg?raw=true" width="100%" /></td>
+    <td><img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/Result2.jpg?raw=true" width="100%" /></td>
+    <td></td>
+  </tr>
+</table>
+
 </div>
+
 
 
 
