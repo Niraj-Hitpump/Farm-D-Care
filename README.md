@@ -27,6 +27,22 @@ Here’s a step-by-step walkthrough of the **Farm-D-Care** mobile app:
 
 ---
 
+### ⚙️ Features Page
+
+<p>
+  <img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/features.jpg?raw=true" alt="Features Page" width="250"/>
+</p>
+
+---
+
+### 👨‍🌾 Ask Expert (Planned)
+
+<p>
+  <img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/Expert.jpg?raw=true" alt="Ask Expert" width="250"/>
+</p>
+
+---
+
 ### 🌾 Crop Selection
 
 <p>
@@ -43,21 +59,6 @@ Here’s a step-by-step walkthrough of the **Farm-D-Care** mobile app:
 
 ---
 
-### ⚙️ Features Page
-
-<p>
-  <img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/features.jpg?raw=true" alt="Features Page" width="250"/>
-</p>
-
----
-
-### 👨‍🌾 Ask Expert (Planned)
-
-<p>
-  <img src="https://github.com/Niraj-Hitpump/Farm-D-Care-main/blob/main/assets/public/Expert.jpg?raw=true" alt="Ask Expert" width="250"/>
-</p>
-
----
 
 ### 🩺 Disease Detection Results
 
